@@ -119,14 +119,6 @@ Adjust GSAP animations in:
 - Safari (latest)
 - Edge (latest)
 
-## 📝 License
-
-This project is private and proprietary.
-
-## 👤 Author
-
-Thirtysixstudio
-
 ## 🙏 Acknowledgments
 
 - [GSAP](https://greensock.com/gsap/) for powerful animation capabilities
